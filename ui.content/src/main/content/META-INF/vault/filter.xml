@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/rimacvehicular"/>
+    <filter root="/content/rimac-vehicular"/>
+    <filter root="/content/dam/rimac-vehicular"/>
+</workspaceFilter>
